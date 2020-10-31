@@ -7,7 +7,7 @@
 
 ### GitHub Stats
 
-<img src ="https://github-readme-stats.vercel.app/api?username=bharathreddy099&theme=chartreuse-dark&show_icons=true">
+<img src ="https://github-readme-stats.vercel.app/api?username=bharathreddy099&theme=radical&show_icons=true">
 <br>
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathreddy099&langs_count=10&theme=tokyonight&layout=compact">
 
