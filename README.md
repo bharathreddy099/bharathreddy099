@@ -2,7 +2,7 @@
 
 - 👨‍💼 Founder and CEO of [TMB Technologies](https://tmbtechnologies.com/)
 - 📫 How to reach me: [Twitter - @bharathreddy099](https://twitter.com/bharathreddy099)
-- 🌱 Learning about IoT, Systems Design
+- 🌱 Learning about IoT,Flutter, Systems Design
 - 💬 Ask me about Flutter or any tech related stuff
 
 ### GitHub Stats
